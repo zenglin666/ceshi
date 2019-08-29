@@ -1,0 +1,118 @@
+*{margin: 0;padding: 0;}
+body{background:#fafafa ;}
+.lmi2 a {
+    text-decoration: none;
+}
+.lmain{
+	width: 990px;background:#fafafa ;
+	margin: 0 auto;
+}
+.ltop{
+	height: 115px;margin-top: 55px;margin-left: 13px;margin-bottom: 44px;
+}
+.lmiddle{
+	background: #fff;height: 674px;
+	border: 2px solid #f0f0f0;
+}
+.lmi1{
+	text-align: center; margin-top: 51px;margin-bottom: 44px;
+}
+.lmi1 h4{
+	font-weight: 400;font-size: 28px;
+}
+.lmi2{
+	width: 338px;margin: 0 auto;
+}
+.box{
+	font-size: 12px;
+}
+.icon-a-phone-icon {
+    display: block;
+    background-image: url(../img/ljlt.png);
+    background-position: -576px -25px;
+    background-size: 589px;
+    width: 12px;
+    height: 16px;
+	position: absolute;
+	left: 11px;
+	top: 13px;
+}
+.icon-a-note-code {
+    display: block;
+    background-image: url(../img/ljlt.png);
+    background-position: -576px 0;
+    background-size: 589px;
+    width: 13px;
+    height: 15px;
+	position: absolute;
+	left: 11px;
+	top: 13px;
+}
+.icon-a-psd-icon {
+    display: block;
+    background-image: url(../img/ljlt.png);
+    background-position: -576px -51px;
+    background-size: 589px;
+    width: 12px;
+    height: 15px;
+	position: absolute;
+	left: 11px;
+	top: 13px;
+}
+
+.box{position: relative;}
+.box p {
+    margin-top: 15px;
+    line-height: 38px;
+    position: relative;
+    overflow: hidden;
+}
+.box input {
+    width: 301px;height: 38px;
+    line-height: 38px;border: 1px solid #e8e8e8;
+    font-size: 12px;
+    background-color: transparent;
+    padding-left: 35px;
+}
+.lmi2 .box .imgCaptchaWrap{
+	width: 230px;
+}
+.lyzm{
+	height: 38px;width: 73px;
+	position: absolute;right: -3px;top:0px;
+}
+.lmi2 .box .imgCaptchaWrap{
+	width: 230px;
+}
+#getcaptcha{
+	height: 35px;width: 73px;border: 1px solid #ccc;
+	position: absolute;right: -5px;top:1px;
+	text-align: center;line-height: 35px;
+}
+.lmi2 .ltsbox1{
+	margin-top: 5px;
+}
+.recommend{
+	margin-top: 15px;
+}
+.register{
+	    width: 340px;height: 38px;
+	    font-size: 14px;background: #b32424;
+	    color: #fff;border: 0;
+	    border-radius: 2px;
+	    display: block;
+	    margin: 25px auto 0;
+	    line-height: 38px;
+	    text-align: center;
+
+}
+.condition {
+    font-size: 12px;
+    color: #999;
+    padding-bottom: 20px;margin-top: 15px;
+}
+body i{
+	display: none;color: red;
+}
+
+

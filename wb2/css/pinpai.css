@@ -1,0 +1,159 @@
+body {
+  background: #f1f1f1;
+}
+
+.nhear {
+	width: 100%;
+	height: 60px;
+	background: #99aed9;
+	min-width: 1332px;
+	text-align: center;
+	line-height: 60px;
+  }
+  
+  .nlogin {
+	width: 100%;
+	height: 26px;
+	min-width: 1332px;
+	background: #f4f4f4;
+	text-align: center;
+	line-height: 26px;
+  }
+#pingpai-bigbox {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/*轮播图*/
+.nbanner {
+  position: relative;
+  width: 1200px;
+  height: 383px;
+  overflow: hidden;
+}
+.img-list {
+  list-style: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 5240px;
+  height: 383px;
+}
+.img-list li {
+  float: left;
+}
+.banner-nav-list {
+  list-style: none;
+  position: absolute;
+  right: 575px;
+  bottom: 20px;
+}
+.banner-nav-list li {
+  background: #f1f1f1;
+  float: left;
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  margin-right: 10px;
+  cursor: pointer;
+  text-align: center;
+}
+.banner-nav-list li.active {
+  background: white;
+}
+
+/*热门品牌*/
+.nnav {
+  width: 1200px;
+  height: 246px;
+}
+.nnav ul {
+  margin-top: 66px;
+  margin-left: 136px;
+  float: left;
+}
+.nnav ul li {
+  margin-right: 17px;
+  width: 118px;
+  height: 118px;
+  float: left;
+}
+
+/*人气商品*/
+.commodity {
+  width: 1200px;
+  height: 408px;
+  background: white;
+  overflow: hidden;
+}
+.commodity h2 {
+  margin-top: 31px;
+  font-size: 22px;
+  text-align: center;
+  font-weight: bolder;
+}
+.commodity p {
+  font-size: 13px;
+  color: #a7aa9f;
+  text-align: center;
+}
+.commodity ul {
+  margin-top: 57px;
+  margin-left: 147px;
+  float: left;
+}
+.commodity ul li {
+  width: 159px;
+  height: 204px;
+  float: left;
+  padding-right: 20px;
+}
+
+/*热门店铺*/
+.shop {
+  width: 1200px;
+  overflow: hidden;
+  background: #f1f1f1;
+}
+.shop h2 {
+  padding-top: 50px;
+  font-size: 22px;
+  text-align: center;
+  font-weight: bolder;
+}
+.shop p {
+  font-size: 13px;
+  color: #a7aa9f;
+  text-align: center;
+}
+.shoplist {
+  padding-left: 66px;
+  padding-top: 60px;
+}
+
+.shop dl {
+  overflow: hidden;
+  width: 350px;
+  height: 295px;
+  float: left;
+  padding-right: 10px;
+  padding-top: 10px;
+  background: white;
+}
+.shop dt {
+  margin-left: 14px;
+  margin-top: 30px;
+}
+.test {
+  width: 325px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  color: #b2a8b1;
+}
+
+a:hover {
+  text-decoration: none;
+}

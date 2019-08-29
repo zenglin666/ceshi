@@ -1,0 +1,254 @@
+.w {
+  width: 1200px;
+  margin: 0 auto;
+}
+.mtop {
+  background: url("../img/ganbg.png") repeat-x;
+  width: 100%;
+  height: 37px;
+  min-width: 1330px;
+  line-height: 37px;
+}
+
+.endtext {
+  line-height: 37px;
+  float: right;
+  display: inline-block;
+  text-align: right;
+}
+.mcontent {
+  margin-top: 18px;
+  position: relative;
+}
+.mleft {
+  float: left;
+  width: 208px;
+  /* height: 2100px; */
+  margin-right: 20px;
+  overflow: hidden;
+}
+.mlb {
+  float: left;
+  width: 208px;
+  height: 400px;
+  /* background: blue; */
+  margin-right: 20px;
+  overflow: hidden;
+}
+.mlb > ul {
+  width: 1000%;
+  float: left;
+}
+.mlb > ul > li {
+  float: left;
+}
+.mlb2 {
+  float: left;
+  width: 206px;
+  height: 306px;
+  margin-top: 30px;
+  overflow: hidden;
+  position: relative;
+  border: 1px solid #ccc;
+}
+.mlb2 .mc{
+  display: block;
+  float: left;
+  width: 103px;
+  height: 35px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 35px;
+  background: #F1F1F1;
+}
+.mlb2 .mc2{
+  display: block;
+  float: left;
+  width: 103px;
+  text-align: center;
+  line-height: 35px;
+  height: 35px;
+  background: #F1F1F1;
+}
+.mlb2 > ul {
+  width: 1000%;
+  float: left;
+  position: absolute;
+  top: 35px;
+  left: 0px;
+  
+}
+.mlb2 > ul li {
+  float: left;
+  width: 206px;
+
+}
+.mlb2 > ul li img{
+  width: 204px;
+}
+.mdt3{
+  line-height: 30px;
+  width: 206px;
+  height: 30px;
+  text-indent: 1em;
+  background: #F1F1F1;
+}
+.mright {
+  width: 100%;
+  height: 100%;
+}
+.mfenlei {
+  float: left;
+  width: 970px;
+  height: 340px;
+  background: red;
+  margin-bottom: 18px;
+}
+
+/* .morebox {
+  width: 972px;
+  height: 24px;
+  background: yellow;
+  float: left;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.mmore {
+  width: 250px;
+  height: 24px;
+  margin: 0 auto;
+  background: blue;
+} */
+.m1 {
+  float: left;
+  width: 340px;
+  height: 40px;
+
+  line-height: 40px;
+  border-bottom: 1px solid #ccc;
+}
+
+.m1 ul li {
+  float: left;
+  margin: 0 20px;
+}
+
+.m2 {
+  float: left;
+  width: 380px;
+  height: 40px;
+  border-bottom: 1px solid #ccc;
+  line-height: 40px;
+}
+.m2 > input {
+  margin-left: 20px;
+}
+.m3 {
+  line-height: 40px;
+  float: left;
+  width: 240px;
+  height: 40px;
+  border-bottom: 1px solid #ccc;
+}
+.m3 > span {
+  float: right;
+}
+.libiao {
+  width: 972px;
+  height: 1000px;
+  float: left;
+}
+.libiao2 {
+  margin-top: 20px;
+  width: 206px;
+
+  height: 1000px;
+  float: left;
+  border: 1px solid #ccc;
+}
+
+.libiao2 img{
+  width: 180px;
+}
+.libiao2 ul {
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+.libiao ul {
+  display: flex;
+  float: left;
+  flex-wrap: wrap;
+}
+
+.libiao ul li {
+  box-sizing: border-box;
+  padding-left: 18px;
+  width: 234px;
+  height: 400px;
+  float: left;
+  margin: 10px 0;
+  justify-content: space-between;
+}
+.libiao ul li:hover {
+  box-shadow:  4px 5px 5px #ccc;
+
+}
+.libiao ul li img {
+  width: 200px;
+}
+.mdt1 {
+  margin: 16px 0;
+}
+.mdt1 span:nth-of-type(1) {
+  display: inline-block;
+  background: red;
+  width: 28px;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+}
+.mdt1 span:nth-of-type(2) {
+  color: red;
+}
+.mdt2 {
+  margin-bottom: 12px;
+}
+.mxl span:first-of-type {
+  color: red;
+}
+.libiao ul li .mdt2 {
+  width: 200px;
+}
+
+.libiao ul li > p:last-of-type {
+  margin: 12px 0;
+}
+.fenqi {
+  width: 60px;
+  height: 16px;
+  border: 1px solid #cc9952;
+  color: #cc9952;
+  text-align: center;
+  display: none;
+}
+.mbotton {
+  display: block;
+}
+.mbotton > p:first-of-type {
+  float: left;
+  width: 100px;
+  height: 28px;
+  text-align: center;
+  line-height: 28px;
+  border: 1px solid #ccc;
+  border-right: 1px solid transparent;
+}
+.mbotton > p:nth-of-type(2) {
+  float: left;
+  width: 100px;
+  height: 28px;
+  text-align: center;
+  line-height: 28px;
+  border: 1px solid #ccc;
+  color: red;
+}

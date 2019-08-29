@@ -1,0 +1,307 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	position: relative;
+}
+#tzmheader{
+	height:37px;
+	width:100%;
+	background: #f1f1f1;
+}
+.tzmcontainer{
+	width:1200px;
+	height:37px;
+	margin: 0 auto;
+	background: #f1f1f1;
+}
+.tzmspan1{
+	line-height: 37px;
+	font-size: 12px;
+	color:#666666;
+}
+.tzmspan2{
+	line-height: 37px;
+	font-size: 12px;
+	color:#666666;
+	margin-left:870px;
+}
+#tzmmain1{
+	height:467px;
+	width:100%;
+}
+.tzm01{
+	height:467px;
+	width:1200px;
+	margin:0 auto;
+	overflow: hidden;
+}
+.img01{
+	margin-top: 18px;
+	float:left;
+}
+.rh{
+	width:970px;
+	height:39px;
+	float: right;
+	margin-top: 18px;
+	border-bottom: 1px solid #eeeeee;
+	overflow: hidden;
+}
+.rhleimu{
+	height:39px;
+	width:79px;
+	background: #f5f5f5;
+	float: left;
+}
+.leimu1{
+	color:#666666;
+	font-size: 12px;
+	margin-left:12px;
+	line-height:39px ;
+}
+.rhjisu{
+	height:39px;
+	width:891px;
+	float: right;
+}
+.rhleimu2{
+	color:#fff;
+	font-size: 12px;
+	margin-left:15px;
+	line-height:39px ;
+	background: #000;
+}
+.rz{
+	width: 970px;
+	height:364px;
+	float:right;
+	border-bottom: 1px solid #eeeeee;
+	overflow: hidden;
+}
+.rzxx{
+	height:364px;
+	width:79px;
+	background: #f5f5f5;
+	float: left;
+	position: relative;
+}
+.xx1{
+	color:#666666;
+	font-size: 12px;
+	margin-left:12px;
+	position: absolute;
+	top:14px;
+}
+.xxpic{
+	height:364px;
+	width:891px;
+	float: right;
+	overflow: hidden;
+}
+.box1{
+	width:190px;
+	height:100px;
+	background: #eeeeee;
+	border-radius: 6px;
+	margin:16px 0 0 16px;
+	overflow: hidden;
+	float: left;
+}
+.pic1{
+	height:100px;
+	width:84px;
+	margin-left: 10px;
+	float: left;
+}
+.xximg1{
+	width:100%;
+	
+}
+.xxp1{
+	float:right;
+	margin-top: 40px;
+	margin-right: 32px;
+}
+.sw{
+	font-size: 12px;
+	line-height: 12px;
+	color:#b17c7c;
+}
+.sw:hover{
+	background: #ddbf84;
+	color:#fff;
+	cursor: pointer;
+}
+.rf{
+	width:970px;
+	height:39px;
+	float:right;
+	overflow: hidden;
+	border-bottom: 1px solid #eeeeee;
+}
+.rfjg1{
+	height:39px;
+	width:79px;
+	background:#f5f5f5 ;
+	float:left;
+}
+.jg{
+	color:#666666;
+	font-size: 12px;
+	margin-left:12px;
+	line-height:39px ;
+}
+.rfjg2{
+	height:39px;
+	width:891px;
+	float:right;
+}
+.rfjg2 span{
+	color:#666666;
+	font-size: 12px;
+	line-height:39px ;
+	margin-left: 16px;
+}
+.rfjg2 span:hover{
+	background: #ddbf84;
+	color:#fff;
+	cursor: pointer;
+}
+.tzmmain2{
+	width:100%;
+}
+.container2{
+	width:1200px;
+	height:2354px;
+	position:relative;
+	margin: 0 auto;
+	border-bottom: 1px solid #eeeeee;
+}
+.remen{
+	width:208px;
+	height:980px;
+	border: 1px solid #eeeeee;
+	top:18px;
+	left:0;
+	position: absolute;
+}
+
+.remen .bt{
+	background: #eeeeee;
+	text-align: center;
+	color:#000;
+	font-size: 14px;
+	line-height: 40px;
+	height:40px;
+	font-weight: bolder;
+}
+.remen p{
+	font-size: 14px;
+	color:#000;
+	margin-top: 20px;
+	margin-left: 20px;
+	line-height: 24px;
+}
+.gengduo{
+	position: absolute;
+	left:230px;
+	top:0;
+	width:970px;
+	height:34px;
+	border-bottom: 1px solid #eeeeee;
+}
+.gengduo p{
+	font-size: 12px;
+	line-height: 34px;
+	color:#999999;
+	margin-left: 875px;
+}
+.shangpin{
+	position:absolute;
+	top:35px;
+	left:230px;
+	width: 970px;
+	height:2479px;
+	overflow: hidden;
+}
+.shangpin div{
+	width:235px;
+	height:450px;
+	margin-top: 8px;
+	float: left;
+	margin-left: 6px;
+}
+ .shangpin div img{
+	width:235px;
+} 
+.shangpin .span1{
+	font-size: 12px;
+	color:#fff;
+	background: #f57171;
+	margin-left: 10px;
+	
+}
+.shangpin .span2{
+	font-size: 12px;
+	color:#f57171;
+	font-weight: bolder;
+	margin-left: 10px;
+}
+.shangpin .span3{
+	font-size: 12px;
+	color:#000;
+	font-weight: bolder;
+	margin-left: 10px;
+}
+.shangpin .p1{
+	font-size: 12px;
+	color:#666666;
+	line-height: 18px;
+	margin-top: 10px;
+}
+.shangpin .p2{
+	font-size: 12px;
+	color:#666666;
+	line-height: 18px;
+	margin-top: 10px;
+}
+.shangpin .p3{
+	font-size: 12px;
+	color:#666666;
+	line-height: 18px;
+	margin-top: 10px;
+}
+.shangpin .p4{
+	display: none;
+}
+.btn{
+	width:130px;
+	height:30px;
+	margin-top: 22px;
+	margin-left: 45px;
+	color:#f57171;
+	display: none;
+}
+.btn:hover{
+	cursor: pointer;
+}
+.shangpin div:hover{
+	box-shadow: 0px 3px 2px 3px #eeeeee;
+}
+.tishi{
+	width:180px;
+	height:64px;
+	background: black;
+	position:absolute;
+	text-align: center;
+	line-height: 64px;
+	color:#fff;
+	opacity: 0.5;
+	display:none;
+	z-index: 10;
+}
+.bt p{
+	cursor: pointer;
+}

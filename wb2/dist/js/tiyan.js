@@ -1,0 +1,1 @@
+"use strict";$(function(){$(".gallery").flickity({cellSelector:".gallery-cell"})});
